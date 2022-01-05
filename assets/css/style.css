@@ -9,6 +9,8 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #404242;
     color: #ffffff;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .header h1 {
@@ -119,17 +121,17 @@ p {
     max-width: 150px;
 }
 
-.benefit-cost {
+.billing {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-cost h3 {
+.billing h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-cost img {
+.billing img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -199,4 +201,4 @@ p {
 
 .footer h2 {
     font-size: 20px;
-}
+} 
