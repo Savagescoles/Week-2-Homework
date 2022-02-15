@@ -1,3 +1,9 @@
+# Updated Portfolio Assignment
+
+Just added hyperlinks and images to the existing portfolio, I'm not loving the layout anymore since I created the original and will be changing it after the next project but most likely will shift gears completely on what I want on here. 
+
+![Image of the footer layout](/assets/images/UpdatedPortfolio.PNG)
+
 # Week-2-Homework
 
 ![Image of the footer layout](/assets/images/Example.PNG)
